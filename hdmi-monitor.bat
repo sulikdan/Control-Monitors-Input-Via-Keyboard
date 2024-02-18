@@ -1,0 +1,1 @@
+E:/Tools/custom-shortcuts/monitor-switch/ControlMyMonitor.exe /SetValue "\\.\DISPLAY2\Monitor0" 60 17
